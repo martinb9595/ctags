@@ -128,3 +128,4 @@ gnulib/unistd.h
 gnulib/wchar.h
 gnulib/wctype.h
 gnulib/sys/types.h
+.aider*
